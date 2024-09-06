@@ -1,0 +1,6 @@
+{
+    "name": "cpptestdocker_nativegcc", //
+    "build": {
+        "dockerfile": "./Dockerfile"
+    }
+}

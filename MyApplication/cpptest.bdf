@@ -1,0 +1,9 @@
+------- cpptestscan v.10.6.3.20240229B3924 (cpptesttrace) -------
+working_dir=/workspaces/demo00/MyApplication
+project_name=MyApplication
+arg=gcc
+arg=-g
+arg=-I.
+arg=-o
+arg=hello.deb
+arg=hello.c
