@@ -1,0 +1,7 @@
+{
+    "cpptest.workingDirectory": "${workspaceFolder}/MyApplication",
+    "cpptest.compilerIdentifier": "gcc_9-64",
+    "cpptest.commandLinePattern": "cpptestcli ${stopFile} ${compilerConfig} ${testConfig} ${reportDir} ${selectedFiles} -module . -trace make clean all",
+    "cpptest.testConfiguration": "builtin://Recommended Rules",
+    "cpptest.installationLocation": "/opt/cpptest",
+}

@@ -34,3 +34,4 @@
 
 # Cpptest cache folder
 .cpptest
+*.bdf
