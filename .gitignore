@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.deb
+
+# Cpptest cache folder
+.cpptest
